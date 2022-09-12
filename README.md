@@ -1,5 +1,5 @@
 # app-Weathery
-Recriação do aplicativo da Netflix, realizado com base no curso da FreeCodeCamp.
+Aplicativo que busca os dados do clima de cada cidade, baseado na localização.
 
 ## Principais skills para o desenvolvimento do app:
 ViewCode (no Storyboards);
